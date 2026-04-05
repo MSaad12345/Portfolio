@@ -154,11 +154,11 @@ function App() {
           </div>
           <div className="rounded-full border-3 border-[gold] p-2 w-64 h-64 mb-8 flex items-center justify-center bg-[#010134]/20 shadow-2xl shadow-amber-400">
             {/* Replace with real image later */}
-            <img
+            {/* <img
               src={avatar}
               alt="Avatar"
               className="rounded-full object-cover w-55 h-55 "
-            />
+            /> */}
           </div>
         </section>
 
